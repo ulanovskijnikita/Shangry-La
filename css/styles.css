@@ -893,9 +893,10 @@ section {
 
 .header {
     flex-direction: column;
+    padding: 35px 50px 0;
   }
 .header__logo, .header__phone {
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 .header__logo{
@@ -908,7 +909,7 @@ section {
   }
 
 .slogan__title {
-    font-size: 1.45em;
+    font-size: 1.3em;
     margin-top: 90px;
   }
 
